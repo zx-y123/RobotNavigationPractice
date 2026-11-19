@@ -1,0 +1,15 @@
+# CMake 构建目录
+build/
+
+# Visual Studio 文件
+.vs/
+
+# VSCode 用户本地配置
+.vscode/
+
+# 编译生成文件
+*.exe
+*.obj
+*.o
+*.pdb
+*.lib
